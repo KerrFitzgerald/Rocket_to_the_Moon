@@ -25,4 +25,4 @@ Example trajectories include:
 
 'Lagrangian Point 2'
 
-![Approximate L2](https://user-images.githubusercontent.com/60627318/116543453-c9b52080-a8e5-11eb-9d10-f06895828947.png)
+![Approximate L2](https://user-images.githubusercontent.com/60627318/116543846-4811c280-a8e6-11eb-8c17-21f298e7962e.png)
